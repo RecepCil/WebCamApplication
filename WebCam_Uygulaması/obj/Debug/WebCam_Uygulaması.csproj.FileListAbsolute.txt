@@ -1,0 +1,11 @@
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\bin\Debug\WebCam_Uygulaması.exe.config
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\bin\Debug\WebCam_Uygulaması.exe
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\bin\Debug\WebCam_Uygulaması.pdb
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\bin\Debug\AForge.Video.dll
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\obj\Debug\WebCam_Uygulaması.csprojResolveAssemblyReference.cache
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\obj\Debug\WebCam_Uygulaması.Form1.resources
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\obj\Debug\WebCam_Uygulaması.Properties.Resources.resources
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\obj\Debug\WebCam_Uygulaması.csproj.GenerateResource.Cache
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\obj\Debug\WebCam_Uygulaması.exe
+c:\users\recep\documents\visual studio 2015\Projects\WebCam_Uygulaması\WebCam_Uygulaması\obj\Debug\WebCam_Uygulaması.pdb
